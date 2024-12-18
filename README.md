@@ -5,7 +5,7 @@
 In this project, I build a mini honeynet in Azure and ingest log sources from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps.
 
 ## Attack Maps After Being Open to the Internet
-![RDP Map over 24 hours with an exposed VM Honeynet](https://i.imgur.com/kkpRk6J.gifv)<br>
+![RDP Map over 24 hours with an exposed VM Honeynet](https://i.imgur.com/kkpRk6J.gif)<br>
 
 ## Conclusion
 
